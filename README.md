@@ -1,3 +1,5 @@
+# ⚠️ Personalised for MerryMen and for use with Pterodactyl
+
 # Discord Game Server Monitor
 [![Python Package](https://github.com/DiscordGSM/GameServerMonitor/actions/workflows/python-package.yml/badge.svg)](https://github.com/DiscordGSM/GameServerMonitor/actions/workflows/python-package.yml)
 [![Docker Image](https://github.com/DiscordGSM/GameServerMonitor/actions/workflows/docker-image.yml/badge.svg)](https://github.com/DiscordGSM/GameServerMonitor/actions/workflows/docker-image.yml)
@@ -13,11 +15,6 @@
 🚨 Get alerted when your server is down! Learn more: https://discordgsm.com
 
 ![DiscordGSM Alert](https://discordgsm.com/game-server-monitor-alert.jpg?v=2)
-
-## Installation
-We provide a public discord bot service which allows to monitor 10 servers per discord guild.
-
-[![DiscordGSM Thumbnail](https://discordgsm.com/add-to-server.png)](https://discordgsm.com/invite)
 
 For self hosting, please check https://discordgsm.com/guide#installation.
 
@@ -67,10 +64,4 @@ Feel free to contribute! Learn more: [Contributor's Guide: Adding Translations](
 | <img src="https://discordgsm.com/images/flags/ja.png" width=20 /> Japanese | 日本語 | ✔️ | [ja.json](/discordgsm/translations/ja.json) | [@Shiorii](https://github.com/Shiioriii) |
 | <img src="https://discordgsm.com/images/flags/zh-TW.png" width=20 /> Chinese, Taiwan | 繁體中文 | ✔️ | [zh-TW.json](/discordgsm/translations/zh-TW.json) | [@BattlefieldDuck](https://github.com/BattlefieldDuck) |
 | <img src="https://discordgsm.com/images/flags/ko.png" width=20 /> Korean | 한국어 | ✔️ | [ko.json](/discordgsm/translations/ko.json) | [@Shiorii](https://github.com/Shiioriii) |
-
-## Support Server
-Got any questions or feedback? Join our Discord Server: https://discordgsm.com/discord
-
-## Stargazers over time
-[![Stargazers over time](https://starchart.cc/DiscordGSM/GameServerMonitor.svg?variant=adaptive)](https://starchart.cc/DiscordGSM/GameServerMonitor)
 
